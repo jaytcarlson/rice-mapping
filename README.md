@@ -4,9 +4,13 @@ Mapping rice paddies is difficult because regions ideal for this crop are also c
 
 ### Requirements
 If using conda, run the following commands.
+
 ```conda create -n rice-stats python=3.7```
+
 ```conda install ipykernel```
+
 ```pip install "descarteslabs[complete]"```
+
 
 ### First run the notebook “img_stat_product_creation.ipynb”
 
