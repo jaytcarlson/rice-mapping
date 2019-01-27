@@ -2,7 +2,7 @@
 ## Introduction
 Mapping rice paddies is difficult because regions ideal for this crop are also covered by clouds. Synthetic aperture radar sensors penetrate the clouds. Developing statistic probablities from this sensor is our method for large-scale rice paddy classification. 
 
-Objective: This workfow demonstrates the ability to extract derivative statistical information from complex datasources, save those output data back into our system for use in secondary analysis. 
+Objective: This workfow demonstrates the ability to extract derivative statistical information from complex datasources and save those output data back into our system for use in secondary analysis. 
 
 ### Requirements
 If using conda, run the following commands.
@@ -28,5 +28,6 @@ Once that Notebook completes, You can see an empty product created in the "Your 
 * Check the `product_id` matches your id from the previous notebook
 * Run the blocks in sequence, modfiying the country if desired
 * Open our [Monitor interface](http://monitor.descarteslabs.com) and demonstratefeatures
+
 Script: "You can monitor the tasks status, access their logs and results, as well as cancel task groups through our Monitor interface"
 * Open the [Catalog entry](https://catalog.descarteslabs.com/?/) for the rice stats scenes and open the resulting tiles in Viewer once they upload. It can take several minutes for the derivative products to appear in the Catalog. 
